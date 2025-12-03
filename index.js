@@ -47,16 +47,6 @@ function calcularHipotenusa(cateto1, cateto2) {
     const soma = somar(potencia1, potencia2);
     return calcularRaizQuadrada(soma);
 }
-// NÃO ALTERE A LINHA ABAIXO
-module.exports = { somar, multiplicar, subtrair, dividir, calcularMedia, elevarPotencia, calcularAreaRetangulo, verificarParOuImpar, calcularRaizQuadrada, calcularHipotenusa }
-
-
-
-
-
-
-
-
 /**** Escreva o código acima ☝️******/
 
 //Não altere as linhas abaixo
